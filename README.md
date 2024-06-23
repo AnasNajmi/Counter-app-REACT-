@@ -1,8 +1,11 @@
-# React + Vite
+# Basic Counter app in React 
+*usestate hook is implimented 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Demo Video
+https://github.com/AnasNajmi/Counter-app-REACT-/assets/127054270/55a7031b-e766-4c16-b818-d9175f011254
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+
+
